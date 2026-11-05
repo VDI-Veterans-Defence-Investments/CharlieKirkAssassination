@@ -1,0 +1,2438 @@
+#LyX 2.4 created this file. For more info see https://www.lyx.org/
+\lyxformat 620
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+\usepackage[margin=0.8in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\usepackage{graphicx}
+\usepackage{eso-pic}
+\usepackage{transparent}
+\usepackage{lastpage}
+
+\AddToShipoutPictureBG{%
+  \AtPageCenter{%
+    \makebox(0,0){\transparent{0.10}\includegraphics[width=0.7\paperwidth]{watermark2.png}}%
+  }%
+}
+
+\fancyhf{}
+\fancyhead[L]{How Charlie Kirk was Murdered}
+
+\fancyfoot[L]{\thepage / \pageref{LastPage}}
+\fancyfoot[C]{© 2026 Veterans Defence Investments ALL RIGHTS RESERVED}
+\fancyfoot[R]{\tiny{|0.91-3November2026|}}
+\renewcommand{\headrulewidth}{0.4pt}
+
+\pagenumbering{arabic}
+\setcounter{page}{1}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children no
+\language canadian
+\language_package default
+\inputencoding utf8
+\fontencoding auto
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement class
+\float_alignment class
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_formatted_ref 0
+\use_minted 0
+\use_lineno 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\spellchecker_ignore canadian Bagley
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tablestyle default
+\tracking_changes false
+\output_changes false
+\change_bars false
+\postpone_fragile_content true
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
+\end_header
+
+\begin_body
+
+\begin_layout Title
+How Charlie Kirk Was Murdered:
+\begin_inset Newline newline
+\end_inset
+
+By Video Alone
+\end_layout
+
+\begin_layout Author
+\begin_inset CommandInset href
+LatexCommand href
+name "@sterilizors"
+target "https://x.com/sterilizors"
+literal "false"
+
+\end_inset
+
+ at X
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "@DefenceScientist"
+target "https://rumble.com/user/DefenceScientist"
+literal "false"
+
+\end_inset
+
+ on Rumble
+\begin_inset Newline newline
+\end_inset
+
+David Ryan Erickson
+\begin_inset Newline newline
+\end_inset
+
+Defence Scientist
+\begin_inset Newline newline
+\end_inset
+
+Full Engineer
+\begin_inset Newline newline
+\end_inset
+
+Captain
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+BLUF
+\series default
+ (Bottom Line Up Front):
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+WARNING:
+ This report details gruesome murder details and graphic images of Charlie Kirk in the moments before and after his murder.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+The images are screen shots with no further alteration to image pixels.
+ Images in this report are scaled to fit fixed size rectangles.
+ Overlays in monochrome drawing elements are laid on top without altering surrounding pixels from the videos and you can verify that yourself observing videos in Section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Video-Data"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Nothing can be definitive about the assassination elements until more evidence is public,
+ including the exact injuries to Charlie Kirk:
+ 
+\series default
+this document lays out a theoretical explanation from my experience and knowledge with zero access to unseen official documents or missing evidence.
+ I can explain everything but I can prove none of it.
+ This report lays out an explanation based on guidelines not absolute truths.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+If you hate reading but love Charlie Kirk:
+
+\series default
+ I will use modified pictures from actual video to illustrate what I am explaining.
+ Ignore the text and focus on the images.
+ 
+\series bold
+TL;DR:
+ SKIP TO SECTION 5
+\series default
+.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+If you are a mathematician or scientist and understand Gurney equations,
+ fluid dynamics,
+ stochastic systems,
+ and ballistics
+\series default
+:
+ you may find this simplified presentation incomplete.
+ I am using imagery instead of math so it is accessible to a general audience.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+As to the ambush plan,
+ ambush organization,
+ political affiliation and other characteristics:
+
+\series default
+ I have no idea about any of that.
+ To me that is all beside the objective and beyond my expertise.
+ I am describing,
+ in layman's terms,
+ an explosion and a bullet impact as seen by aftereffects.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+As to the timeframe I am describing:
+
+\series default
+ I am focusing only on the immediate timeframe,
+ from the initial trigger detonation to the point when the Kirk is lifeless.
+ Because videos are incomplete,
+ do not provide a full 360° view,
+ it is not possible to reliably determine what happened afterwards.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+I seem to be presenting the conclusions as assumptions:
+
+\series default
+ No,
+ I am basing the analysis on observable evidence from public videos and using that evidence to limit speculation and reject theories that are not supported by the data.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+I cannot explain why:
+ 
+\series default
+I am only claiming HOW.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename Precision.png
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+This Theory aims for Precision over Accuracy:
+ 
+\series default
+precision allows you a neighborhood answer like the green ellipsoid (image above) when an accurate answer like the blue dot is impossible;
+ given a myriad of variables that are unknown or speculated,
+ especially the shape and design of the explosive microphone transmitter (
+\emph on
+i.e.
+
+\emph default
+ HEAT shaped charge,
+ fuel-air explosive,
+ perhaps even energetic materials) detailing explosive kind,
+ shape,
+ and mass,
+ there is no sane honest person that can claim accuracy unless that person is the bombmaker.
+ Any proposed theory can only provide a range of possible causes linked directly to the evidence in the videos.
+ This theory presents an explanation that could contain many different explosives kinds within a range of answers but uses one set of numbers not as the answer but as the centroid around which other answers are possible.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+The magic bullet possibility is a fantasy:
+
+\series default
+ The fact that a volley attack against Charlie Kirk was done,
+ and this is evident in multiple video views and sound profiles,
+ makes any kind of magic event - a bullet miracle - that relies on improbability unlikely when multiple attacks explains discontinuities and discrepancies in the video evidence.
+ If all evidence can't fit one bullet then the bullet can't be the cause.
+ If a bullet needed to be fired 1000 times to see the exact results once,
+ that's not a credible explanation.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+This range of solutions explains more than a bullet-only assassination theory:
+
+\series default
+ Whereas this document lays out an interpretation that provides a precise explanation that accounts for all the side issues (explosives-induced coagulopathy,
+ ESD shoes on security,
+ gas expansion under Charlie Kirk's t-shirt) that cannot be connected by official narrative.
+ This theory,
+ which by Ockham's Razor makes this range of explanations a simpler interpretation,
+ is a more plausible one.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+There will be inconsistencies in this interpretation:
+
+\series default
+ It's easy to make mistakes,
+ and even my mistakes have mistakes,
+ so this theory has been double-checked repeatedly to try to reduce the number of confusions and ambiguities to a minimum,
+ but there may still be inconsistencies in this interpretation,
+ and some details cannot be resolved until all evidence is available.
+ 
+\end_layout
+
+\begin_layout Enumerate
+All videos and images therefrom are the property of the respective owners.
+ All are accessed and used for purposes of commentary under fair use.
+ 
+\end_layout
+
+\begin_layout Section
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Central-Thesis"
+
+\end_inset
+
+Central Thesis
+\end_layout
+
+\begin_layout Standard
+The prevailing theory revolves around this central thesis:
+ there is necessary evidence (phenomena that dictate explosives can only be the cause) and sufficient lack of effects ( phenomena effects that could be from exotic proposed alternates like a bullet hitting a bullet in front of Charlie Kirk are demonstrated as not present ) in the public video from multiple nonaligned parties,
+ unaware of what they recorded,
+ that there is no other plausible explanation other than an explosion on Kirk's body killed him within 75 microseconds and long before any bullet could arrive.
+ An explosion that is over in 75 microseconds or less makes any interaction with other causes improbable.
+ An explosion presence makes everything concerning a bullet insignificant.
+ 
+\end_layout
+
+\begin_layout Standard
+If there was a bullet from a shooter atop Losee Building and shot at an identical time,
+ which is a theoretical impossibility but assume it is so,
+ then that bullet would need to travel over 130m from before striking Kirk.
+ That takes,
+ at 
+\series bold
+853.44 m/s
+\series default
+ muzzle velocity (for a Mauser 98),
+ about 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+\ensuremath{t=\frac{d}{v}=\frac{130m}{853.44\frac{m}{s}}\approx0.152\ }seconds.
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+if the bullet left at exactly the same time as an explosion detonated on Kirk,
+ it would take approximately 0.152 seconds.
+ By comparison,
+ an explosion of C4 travelling 0.3 m (from microphone to past Kirk's neck) at a velocity of detonation of about 4000 m/s would take 75 microseconds.
+ The ratio of 0.152 seconds to 75 microseconds is 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+\frac{0.152s}{75*10^{-6}s}\cong2,030:1
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+or about 2030 times as long.
+ Which means at any time within over 2029 equal length time intervals the explosion could have detonated and killed Kirk.
+\end_layout
+
+\begin_layout Standard
+In terms of a classic hypothetical comparison,
+ if a man was on the observation deck of the Empire State building,
+ and leapt off,
+ and as he was falling he was first detonated with an explosion with enough power at a right location to kill him,
+ and then shot from someone leaning out a window further down,
+ then hits ground which action killed him?
+ In this scenario,
+ there isn't a chance of overlap.
+ The explosion,
+ completing long before the other two causes,
+ is the cause of death.
+ Why?
+ Imagine the other way around,
+ the man leaps off a building and is hit by a bullet,
+ and then exploded,
+ and then hits the ground.
+ If the man is dead by explosion in this case,
+ the ground is irrelevant so the bullet is irrelevant since it won't finish his death,
+ in most cases,
+ before the ground.
+ 
+\end_layout
+
+\begin_layout Standard
+The explosion completed so far before the bullet strike against Charlie Kirk's neck that Kirk's blood had already coagulated by explosives-induced coagulopathy that it altered the viscosity and density of Kirk's body and that changed the dynamics of the bullet impact.
+ There was no bullet collision spray when the bullet hit.
+ When Charlie Kirk leaned over after the explosion,
+ blood was already coagulated and spilled out rather than spraying or spattering that means his heart wasn't pumping.
+ 
+\end_layout
+
+\begin_layout Standard
+This thesis doesn't mean a shooter didn't shoot Charlie Kirk,
+ it means shooter's involvement was to hide the explosion.
+ A lone gunman can't explain an explosion because an explosive device needs to be attached to the victim.
+ 
+\end_layout
+
+\begin_layout Section
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Preliminaries"
+
+\end_inset
+
+Preliminaries
+\end_layout
+
+\begin_layout Standard
+Video evidence revolves around established physics,
+ not belief.
+ In order to see what happened with the videos,
+ you need to be familiar with the two kind of phenomena:
+ explosion physics and ballistics physics.
+\end_layout
+
+\begin_layout Standard
+When a high kinetic energy object strikes a static object,
+ momentum is transferred and mechanical joints within the structures are broken in a sequence of events some call deformations.
+ The way these deformations evolve over time depends on many factors including the kind of materials,
+ the kinetic energy of the colliding object,
+ and so on,
+ so there isn't one way to generalize all kinds of collisions.
+\end_layout
+
+\begin_layout Standard
+There are three physical phenomena important here that vary amongst explosions and ballistics:
+ expanding energy,
+ deforming materials,
+ and sound emissions.
+ This section does a very brief introduction to how they relate for explosions and ballistics.
+\end_layout
+
+\begin_layout Subsection
+Explosion Physics (Briefly)
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename Kirk_ExplosionBomb.png
+	lyxscale 30
+	width 11cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+We've all seen a high order detonation,
+ it is a chemical chain reaction that starts at one point and expands outwards in all directions as the chemical energy in molecular bonds breaks down and causes a shockwave radiating outward.
+ Low order detonation is a gunpowder explosion,
+ the high order works faster and generates orders of magnitude more force.
+ Both produce gas expansion,
+ but a high order explosion produces orders of magnitude more gas expansion as above.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ExplosionRing.png
+	lyxscale 30
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+An explosion,
+ from low order detonation to a high order detonation,
+ all begin at a detonation point at wherever the chain reaction starts.
+ Even a deflagration,
+ which is when that same chemical starts burning at subsonic speeds instead of supersonic due to the design,
+ shape,
+ and timing of the detonation,
+ still starts from a point near the detonator (a sensitized less powerful explosive that kickstarts the explosion chain reaction) and expands out like the above image.
+ Concentric rings from a central point are the same shockwave advancing in all directions is an omnidirectional explosion.
+ The more gas expands,
+ the more energy is converted from a chemical by shockwave overpassing molecules that detonate.
+ Chain reaction accelerates gases nearby as the chain reaction advances.
+ When you contain the explosive in a steel container like the casing of a bomb or missile or artillery shell,
+ those successive gas expansions build up stress on the container,
+ transferring energy into structural deformation,
+ and then the container bursts and sends energy outward with more force through the material storing potential energy from the blast.
+\end_layout
+
+\begin_layout Standard
+Why was Charlie Kirk explosion not omnidirectional?
+ If you looked at an omnidirectional explosion,
+ not by a shaped charge,
+ the shockwave and gas expansion expands everywhere at once from the same point,
+ like in the image above,
+ you would see energy propagating like an expanding sphere,
+ it would have caused Charlie Kirk's shirt to expand in all ways at once,
+ not along a specific axis.
+ As you will see in the videos in Section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Video-Data"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+,
+ the gas expands along one axis of detonation and only raises the back of Kirk's t-shirt out the collar as gas escapes.
+ The gas doesn't expand the front of Charlie Kirk's t-shirt downwards from the blast site nor upwards through the front collar because the blast isn't omnidirectional.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ExplosionChart.png
+	lyxscale 20
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The above image
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "https://www.mdpi.com/2076-3417/12/5/2691"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ demonstrates a generic explosion graph of pressure versus time (which is associated with all-axis energy expansion) in a timeline from detonation at time zero shows that once a chemical high order detonation starts,
+ from a detonation point outward in all directions at once,
+ with the chain reaction chemical propagation there is a massive impulse that reaches a peak force / pressure impulse almost instantaneously (known as a BOOM) which causes the first stage called positive impulse (denoted here as BLOW for positive pressure) that propagates out from detonation point,
+ which then produces a vacuum or negative impulse (denoted here as SUCK for negative pressure).
+ From a sound and energy perspective,
+ an explosion BLOWS before it SUCKS.
+ Based on the explosion energy profile diagram above,
+ the BLOW phase of an explosion is a sound wave of high frequencies that dissipates as rapidly as the energy expands.
+ You would hear one momentary BOOM.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename shaped-charge.png
+	lyxscale 30
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+If you don't use a complete container as in a bomb or missile,
+ you can use a shape involving the explosive and a partial structure that exploits the same material crushing effects that can create a unidirectional detonation.
+ The image above shows a wider cross-hatched main explosive charge and a custom narrow cross-hatched liner that is deformed and accelerated along an axis of detonation that MUST GO through the centre of the liner in order to maintain a smooth detonation where shock waves constructively reinforce against each other and not destructively interfere.
+ If the explosion is to deliver maximum effects,
+ the detonation point must be where the red dot is located.
+ That forces the direction for the axis of detonation as along that blue arrow.
+ 
+\end_layout
+
+\begin_layout Standard
+When you watch the videos,
+ the gas expands from the red dot in the image below and outwards and wraps around to the back side of the shirt because the shirt fibres capture the expanding gases and redirect them around the back,
+ towards Kirk's neck,
+ and raised the hair on the back of Kirk's head upwards.
+ That can only mean the gas expanded outwards from inside the t-shirt.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename Kirk_overlayed.png
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In the above approximate representation,
+ which overlays an approximate origin and an estimated shaped charge direction for axis of detonation,
+ on the magnet holding RØDE microphone transmitter on Charlie Kirk's t-shirt from 
+\begin_inset CommandInset href
+LatexCommand href
+target "https://whoassassinatedcharliekirk.com/Cause_of_Death/overview"
+
+\end_inset
+
+,
+ you can see that the microphone transmitter wasn't just placed accidentally,
+ but what the installer didn't account for was the mass of the microphone transmitter.
+ When you look at the videos of Kirk's death,
+ and you line up the explosive direction,
+ it explains why the forensics examiner found damage to Charlie's neck not where the bullet entered.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ZoomedFrontTorsoKirkWoundsDiagram_overlayed.png
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In the above approximate representation,
+ the same origin and shaped charge axis of detonation,
+ with the identical angle between lines is used,
+ is lined up APPROXIMATELY with the RØDE microphone transmitter position on an anatomical diagram where red highlights are the approximate injury locations from this diagram:
+ 
+\begin_inset CommandInset href
+LatexCommand href
+target "https://whoassassinatedcharliekirk.com/Cause_of_Death/overview"
+
+\end_inset
+
+ (this fuses two diagrams - FRONT TORSO and NECK from 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://whoassassinatedcharliekirk.com/Medical/charlies_injuries
+\end_layout
+
+\end_inset
+
+).
+ When you line the point of detonation of a presumed explosive shaped charge microphone transmitter and the injury areas from one axis alone,
+ especially the containing fracturing of cartilage,
+ it appears coincidental.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename Kirk-neck-damage.png
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This image shows an interpretation of the medical examiner's report which for some reason wasn't released.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.youtube.com/watch?v=XLS0Z8iGEu0
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename KirkExplosiveOverlay.png
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This modified image (from 
+\begin_inset CommandInset href
+LatexCommand href
+target "https://www.youtube.com/watch?v=XLS0Z8iGEu0"
+
+\end_inset
+
+) presents a projected conical unidirectional shaped charge explosive outline (in purple) from about the position of the explosive microphone transmitter pose onto the reported damage locations in Kirk's neck.
+ When you fuse the front side unidirectional explosive cone with the side facing unidirectional explosive cone and they both end up covering the same damage locations on Kirk.
+\end_layout
+
+\begin_layout Subsection
+Ballistics Physics (Briefly)
+\end_layout
+
+\begin_layout Standard
+Gunpowder causes a low order detonation at a velocity of detonation of approximately 200 m/s.
+ In contrast to an explosive,
+ bullet cavitation fluid dynamics works in opposite manner with respect to energy expansion to an explosion.
+ The bullet cavitation forms a vacuum from the bullet ass end as it moves through air.
+ A bullet compresses air in the front and creates a void behind it that air rushes into fill.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename bullet-cavitation2.png
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The bullet above
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "https://boingboing.net/2016/11/02/ballistic-gel-farts-after.html"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ is travelling within a block of ballistic gel with the expansion from bullet collision pushing the gel outwards,
+ the vacuum follows and collapses the gel void.
+ Bullet collision pushes objects outwards,
+ vacuum pulls them back in afterwards.
+ 
+\end_layout
+
+\begin_layout Standard
+There are cases where bullets cause debris to expand out the backside of an object on exit.
+ In this image below
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "https://en.wikipedia.org/wiki/Ballistic_gelatin"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+,
+ the bullet disintegrating and gel disintegrating causes a cascade of ballistics gel and bullet fragments escaping along various trajectories.
+ In this case,
+ the bullet fragmenting the material is the cause of the expanding matter behind the object,
+ not the bullet cavitation.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename BulletCavitation2.png
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In the egg shattering below
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "https://www.youtube.com/watch?v=TLC3mPDnKvk"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+,
+ the bullet deforms and changes trajectory,
+ but the collapsing material cascades into other fragmenting material on entry and exit and that causes the expansion seen.
+ Again,
+ the bullet cavitation works AGAINST material ejection by imploding the air around bullet centre of axis.
+ But the fragmented elements have momentum imparted on them greater than the vacuum pulling against them.
+ Most times people see fragments escaping away from a bullet wound it is material that unjointed from the surrounding material.
+ Not from the air escaping.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename egg-exploding-bullet.png
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename KirkBulletCavitationOnExit.png
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As you can see from this bullet exiting a ballistic gel body,
+ the shockwave from bullet cavitation IMPLODES - it collapses - on exit from a body so it can't expand a shirt on exit but from the collapsing vortex.
+ In this case,
+ there is material following the bullet that cannot escape the vacuum caused by bullet cavitation collapses along with gas.
+ In comparison to explosions,
+ a bullet cavitation SUCKS before it BLOWS.
+\end_layout
+
+\begin_layout Subsection
+Summary
+\end_layout
+
+\begin_layout Standard
+In other words,
+ the physics of bullets and explosives work in opposite directions of the expanding material,
+ expanding energy,
+ and expanding vacuums.
+\end_layout
+
+\begin_layout Standard
+A bullet cavitation SUCKS before it BLOWS.
+ The sounds you hear from a rifle bullet are known as a CRACK - THUMP.
+ CRACK is the sound of the bullet hitting a body,
+ in the case of a bullet hitting a human it's more like a meat slapping sound.
+ After the bullet strikes,
+ with a longer pause based on how far away the bullet was shot,
+ there will be the report of the rifle as the sound from the gunpowder detonation arrives at the target.
+\end_layout
+
+\begin_layout Standard
+An explosion BLOWS then SUCKS.
+ The sounds you hear is one powerful high frequency BOOM of the impulse expanding.
+ 
+\end_layout
+
+\begin_layout Standard
+The velocity of detonation of gunpowder is around 200 m/s.
+ The velocity of detonation of explosives like C4 is about 4000 m/s and SEMTEX is about 10,000 m/s.
+ The energy released and the timeframes involved are orders of magnitude different from each other.
+ 
+\end_layout
+
+\begin_layout Section
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:PROSECUTOR-TIMELINE-AND"
+
+\end_inset
+
+PROSECUTOR TIMELINE AND EVENT:
+\end_layout
+
+\begin_layout Standard
+This is a summary of the prosecutor's (JEFFREY S.
+ GRAY (5852)) timeline his team submitted to court Dated July 28,
+ 2026
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+from 
+\begin_inset CommandInset href
+LatexCommand href
+target "https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\begin_inset Quotes eld
+\end_inset
+
+September 10,
+ 2025 —
+ morning:
+ Turning Point USA held a Charlie Kirk event at Utah Valley University in Orem.
+ Several thousand people filled the amphitheater near the center of campus,
+ west of the Losee Building.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Before noon:
+ Investigators’ surveillance review indicated that a vehicle registered to the defendant arrived on campus.
+ The defendant allegedly visited campus multiple times that day,
+ including two visits before the shooting.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Shortly before noon:
+ The defendant allegedly returned to campus wearing different clothing but the same shoes and walking with a limp.
+ Surveillance footage reportedly showed him walking toward the stairs leading to the Losee Building roof.
+ Investigators concluded that he was the person captured on that footage;
+ his roommate,
+ Lance Twiggs,
+ reportedly said still images “definitely” looked like the defendant.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+After the event began,
+ before 12:23 p.m.:
+ Kirk seated himself beneath a canopy tent on the west side of the amphitheater,
+ below the Hall of Flags.
+ An attendee stood directly in front of him to ask a question.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Approximately 12:23:28 p.m.:
+ While the attendee was questioning Kirk,
+ a shot was fired.
+ The bullet struck the left side of Kirk’s neck and killed him.
+ The document describes the bullet’s path as front-to-back,
+ slightly left-to-right,
+ and downward.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+At the moment of the shot:
+ UVU Officer Christopher Bagley—
+not “Bailey,” as the earlier summary stated—
+was positioned on the south end of the Hall of Flags walkway roof,
+ above Kirk’s canopy.
+ Based on his firearms experience,
+ Bagley believed the shot came from a rifle fired east of the canopy.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Immediately 
+\nospellcheck on
+afterward
+\nospellcheck default
+:
+ Surveillance footage allegedly showed a man on the Losee Building roof stand up,
+ run northeast across the roof carrying a long,
+ narrow black object,
+ and descend from the northeast side.
+ He then crossed Campus Drive and entered a wooded area north of the road.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Shortly 
+\nospellcheck on
+afterward
+\nospellcheck default
+:
+ Police recovered a Mauser Model 98 rifle chambered in .30-06 Springfield,
+ with a telescopic sight,
+ wrapped in a black towel in the wooded area.
+ The excerpt says the rifle was operable.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Roof evidence:
+ Bagley found a screwdriver near the roof’s guardrail and disturbances in the gravel at the southwest edge consistent with a “sniper pad”—
+a prone position with a line of sight to Kirk’s seat.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Later investigation:
+ DNA testing reportedly provided strong or supportive evidence that the defendant contributed DNA found on the screwdriver,
+ towel,
+ rifle,
+ and fired cartridge casing.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Approximately 12:36 a.m.,
+ September 11,
+ 2025:
+ The defendant allegedly returned to the intersection of Campus Drive and 800 South,
+ attempted to turn south,
+ and was redirected by an officer.
+ The road led toward the wooded area where the rifle had been found.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Evening of September 11,
+ 2025:
+ The defendant surrendered to law enforcement and allegedly admitted to Twiggs and other friends that he had shot Kirk.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Thus,
+ the documented final sequence is:
+ Kirk seated beneath the canopy → attendee questioning him from directly in front → shot at approximately 12:23:28 p.m.
+ → shooter depicted fleeing from the Losee Building roof with a long black object.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:The-Video-That"
+
+\end_inset
+
+The Video That Changes Explanation
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename VideoBehindKirk.png
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This camera
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "https://x.com/peppenheise/status/2075099985717158072/video/1"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ is the one that records the exact moment of detonation,
+ the exact wireless trigger pull by Conspirator #2,
+ and captures the audio from the explosion directly and without this video you cannot reconstruct the assassination volley timeline.
+ By accidental happenstance it is located directly in the right place at the right time.
+ 
+\end_layout
+
+\begin_layout Standard
+The reason is based on physics:
+ both the longitudinal sound waves of the explosion as a one impulse sound,
+ the bullet sounds as CRACK-THUMP in audio,
+ arrive at this camera BEFORE the concrete building and plastic tent obstacle cause constructive and destructive interference
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "https://x.com/AmericaOnlyBro/status/2101354181810585631/"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+What is in the videos from front and back of Charlie Kirk is capable of explaining what happened - the two volley attack of an explosion and a bullet - by video.
+ Security had no control over video and audio from bystanders.
+ 
+\end_layout
+
+\begin_layout Standard
+But the videos capture everything by physical phenomena.
+ You cannot erase an explosion by the effects on objects,
+ you cannot erase the bullet cavitation and how it impacts a body.
+ And if you can separate the sound of the explosion differentiated from bullet effects,
+ which are in the public videos,
+ the rest of the data lines up as laid out here.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename KirkConcretePaved.jpg
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This image shows the post-assassination crime scene but it also shows how the assassination point was inside a concrete echo chamber:
+ absorption coefficient of unpainted concrete is approximately 0.01 to 0.02 which means that it reflects almost 100% of sound energy.
+ That means that once a sound emits inside that hollow concrete chamber it will constructively and destructively interfere with other sounds to almost a 100% baffling.
+ This is the environment that washes out the explosion sound once it leaves the detonation;
+ the concrete building behind reflected 
+\begin_inset Quotes eld
+\end_inset
+
+washed together
+\begin_inset Quotes erd
+\end_inset
+
+ sounds from the explosion,
+ bullet impact,
+ and bullet rifle report all combine together after the sounds travel away from Kirk.
+\end_layout
+
+\begin_layout Standard
+So what does that mean?
+ Any crime evidence from video before the reverberation off the concrete structure is like a self-contained ecosystem of the event effects.
+ Video
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://x.com/AmericaOnlyBro/status/2101354181810585631/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ exists that you can hear the BOOM of an explosion BEFORE the CRACK-THUMP of a bullet.
+ That's THREE distinct sounds.
+ Not two,
+ which validates this theory.
+ 
+\end_layout
+
+\begin_layout Standard
+Everything observed after that can be corrupted or confused,
+ but it cannot matter more than the the first 0.2 seconds that is corroborated from multiple view cameras and microphones held by people that were unaware of what was going to happen.
+ 
+\end_layout
+
+\begin_layout Section
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Assassination-Volley-Timeline"
+
+\end_inset
+
+Assassination Volley Timeline
+\end_layout
+
+\begin_layout Subsection
+Conspirators
+\end_layout
+
+\begin_layout Standard
+In this conspiracy there are at least four conspirators involved in the assassination,
+ three security & non-security employee removing the camera SD cards and installing microphone transmitter:
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Conspirator #1
+\series default
+:
+ Coordinator,
+ stands behind Charlie Kirk,
+ and gives a nonverbal cue to time the triggering of the Mauser 98 and the explosive microphone transmitter as a volley.
+ Within seconds of his left hand moving along his right shirt sleeve,
+ Kirk is lifeless.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Conspirator #2
+\series default
+:
+ Explosive microphone transmitter trigger man,
+ in view of Conspirator #1,
+ detonates the explosive microphone transmitter installed on Kirk's shirt.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Conspirator #3
+\series default
+:
+ Losee building shooter,
+ in view of Conspirator #1,
+ that shoots Charlie Kirk into the neck.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Conspirator #4
+\series default
+:
+ Employee removing rear side video SD cards and stands with audio board to compensate for noise in the audio channels and installs explosive microphone transmitter on Charlie Kirk's t-shirt underneath cloth and in a direction aimed at Kirk's neck.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename KirkLoseeShooter130m.png
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+To set the scene
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "https://www.bbc.com/news/articles/c784end1wxvo"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+,
+ Charlie Kirk's patio tent stood at the bottom of a concrete building,
+ beside the concrete walkway,
+ on grass,
+ and with a plastic tent overhead and tables standing in front of his chair.
+ The alleged shooter #3 was an approximated 130m from Charlie Kirk's seat.
+ Conspirators #1,
+ #2,
+ & #4,
+ stood within 15m of Charlie Kirk's seat.
+ 
+\end_layout
+
+\begin_layout Subsection
+
+\series bold
+Timeline
+\series default
+:
+\end_layout
+
+\begin_layout Subsubsection
+Microphone attached on Charlie Kirk's t-shirt in a specific pose.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename MicrophoneInstalled.png
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The microphone is attached
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "https://nypost.com/video/charlie-kirk-shot-viral-videos-capture-horrifying-moment/"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ in a specific direction with respect to Charlie Kirk's neck.
+ That is a fundamentally important detail because with a unidirectional explosion there can be only a small range of angles within which the explosion shockwave will deliver all the energy needed to kill the victim.
+ What is important to understand about how this makes the attacher a conspirator is that electronics box,
+ the RØde microphone transmitter,
+ DOESN'T need to be oriented any direction to transmit the audio data to the receiver.
+ So why is the box aimed at Charlie Kirk's neck?
+\end_layout
+
+\begin_layout Subsubsection
+Charlie Kirk takes a seat.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename KirkSits.png
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Discussion begins.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename KirkSitting.png
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+You can see from the image above how the RØde microphone transmitter is attached that it sags from magnetic t-shirt mount and is held away from Kirk's chest by gravity,
+ it's probably the reason why gas expands the t-shirt so obviously.
+\end_layout
+
+\begin_layout Subsubsection
+Coordinator looks down at phone.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename KirkAssassinationCoordinatorPhone.png
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Conspirator #1 starts the coordinated assassination volley when he takes his phone out for some communication with unknown parties,
+ whether or not this was an external signal to start or a local signal to other conspirators that the event was on.
+ He then composes himself,
+ and looks down at his watch.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename Phone.png
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Coordinator hand gestures start ambush:
+ Countdown begins.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename HandGesture.png
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In order to coordinate the two attacks into a volley,
+ the coordinator extends his left arm across his body and then runs his left hand down the length of his right sleeve as a signal to the two operators:
+ one explosive triggerman,
+ second shooter.
+ This is the begin command.
+ Countdown starts.
+ When you watch videos outlined in Section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Video-Data"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+,
+ you will see his arm movements are precise and can be seen from a scope on a rifle 130m away because his hand was contrasted with the black shirt.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Triggerman slides fingers down arm sleeve.
+\end_layout
+
+\begin_layout Standard
+In order to converge the volley,
+ the triggerman watches the coordinator run his fingers down sleeve,
+ waits the preagreed time count,
+ then hits the switch in his shirt sleeve.
+ In this image below,
+ Kirk is alive.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename TriggerBeforeBoom.png
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This camera image from the most important video recording captures Kirk alive and the trigger unpulled.
+ But the fingers move down the sleeve before the pull to time the two attacks.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Triggerman pulls trigger.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename TriggerAfterBoom.png
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This is the camera view that captures the moment of death as this frame is after the explosion has killed Kirk.
+ The entire assassination lasts less than 00:00:01 or less than 0.01 seconds.
+ Using C4 as a rough guide for timelines,
+ C4 travels at a velocity of detonation of 4000 m/s which for a rough distance of 30cm from the microphone transmitter location to past Charlie Kirk's neck is about 30cm.
+ That distance would be overtaken by a C4 explosion in less than 75 microseconds.
+ Of course,
+ this is a precise measuring stick not the accurate answer.
+ The point is,
+ and it can't be dismissed nor waved away,
+ a bullet travelling from 130m away from a Mauser 98 rifle would not be able to collide with Charlie Kirk in that timeframe.
+ Notice how stiff and lifeless Kirk is in this frame.
+ There was no blood flowing,
+ explosives-induced coagulation from detonation shockwave and probably an electromagnetic pulse jammed Kirk's nervous system (sound is a longitudinal wave and the transducer would amplify it).
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Explosion kills Kirk 
+\end_layout
+
+\begin_layout Standard
+This image below shows Kirk's t-shirt before explosion:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename KirkBeforeGasExpansion.png
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In this video image above,
+ Kirk's t-shirt is close to his body.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename KirkTshirtGasExpansion.png
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In the image above,
+ notice the rippling of Kirk's neck skin and the t-shirt expansion.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename AIKirkTshirtGasExpansion.png
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In the above image,
+ the 
+\nospellcheck on
+AI-approximated
+\nospellcheck default
+ yellow arrows leave one approximate detonation point red dot and proceeds along the axis of detonation until they reach a skin fold caused by gas expansion at the base of Charlie Kirk's neck.
+ That skin fold lines up with the gas expansion of the BACK of Charlie Kirk's t-shirt and explains why the gas comes from the underneath of the shirt but doesn't bulge it in any other direction.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename AIKirkExplosiveNeck.jpg
+	lyxscale 30
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Recall that I pointed out that the microphone installer didn't account for Kirk's t-shirt sagging?
+ In this image above the AI-estimated overlay includes:
+ a yellow conical section approximates a unidirectional blast radius from the rough detonation point aiming outwards towards Kirk's neck,
+ the cyan arrow approximates where the blast should have aligned had the explosive shaped charge been flush with Kirk's chest,
+ and the green line approximates Kirk's neck orientation.
+ The light green line over Kirk's nose approximates the tilt of Kirk's head with respect to the neck orientation axis.
+ What all these lines show,
+ crudely,
+ is that a theoretical ideal detonation point might have split the gas expansion evenly to the left and right of Kirk's neck as the gas wave pushed up against Kirk's neck skin.
+ In that case the force on the right side neck skin (flexible surface) and the left side neck skin (flexible surface) would have parted similar to an object in a wind tunnel dividing the force.
+ What apparently happened,
+ and this is what the prior video images reveal,
+ is that the explosion blast predominantly forced the right side skin (the left side of Kirk's neck when viewed from the front) to form that skin fold,
+ an artificial temporary wind tunnel,
+ due to Kirk leaning forward and canting to his right,
+ and the sagging explosive charge that perhaps was designed for a flush surface contact for pinpoint effects (again,
+ nothing is certain without all evidence especially the explosive used) caused the expanding gas to channel into that temporary skin fold and lift Kirk's t-shirt back up away from his body.
+ That explains why the hair on Kirk's head was raised upwards against gravity while the entire surface of Kirk's t-shirt collar didn't lift up front AND back simultaneously.
+ It is exactly these unnatural unique conditions,
+ seen in multiple videos,
+ that can only be explained as by an explosion support the conclusions without examination of Kirk's body.
+ 
+\end_layout
+
+\begin_layout Standard
+Explosion begins at the microphone transmitter on his top left chest (from front of Kirk viewpoint) and travels across Kirk's body down to up,
+ left to right as viewed from the front exactly the way a unidirectional shaped charge would travel.
+ Explosion lifts Kirk's t-shirt left to right,
+ down to up,
+ and expanding gas travels around Kirk's body under t-shirt and out the collar upwards and backwards from the body as can be seen in the image above.
+ The explosion lifts Kirk's collar forming an air channel only along Kirk's right neck side (from Kirk's perspective).
+ All energy must have a source,
+ and the energy to expand Kirk's shirt must have come from a local origin.
+ Had the explosion been an omnidirectional blast,
+ the t-shirt would have expanded all at once from the same point along an expanding sphere with energy escaping out the top and bottom of the t-shirt more than wrapping around the body.
+ Since the bullet that arrives later doesn't break skin at the back of Kirk's neck,
+ it can't cause the gas expansion,
+ and even if bullet did penetrate and exit as I described above it would leave a vacuum in it's wake as it exited,
+ not a gas expansion.
+ That explosion shockwave travels up into Kirk's neck structure violently shattering elements under the skin within the limits of the conical blast area along Kirk's body front as shown in previous diagrams.
+ As the explosion expands outwards it expands the t-shirt,
+ it violently throws the cross on necklace (shown below
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "https://www.youtube.com/watch?v=FAoay-2MSSM"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+),
+ ring flies off finger,
+ microphone wire flies out of his right ear,
+ and gas expansion pushes Kirk's back head hair upwards against gravity.
+ The gas expansion flows out Kirk's collar because Kirk's left arm is holding down the left sleeve hole.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename KirkAssassinationChain.png
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Explosion causes explosives-induced coagulation
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename /home/dave/VDI/KirkExplosionNoBlood.png
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In the image above,
+ the bullet entry wound is present with zero evidence of blood spray,
+ splatter,
+ or spurting from the neck wound.
+ Coagulation must have occurred before bullet entry.
+ This is an image from the sequence that shows Kirk leaning over to his left.
+ Even the blood in Kirk's head isn't moving as gravity is offset by normal forces.
+ Explosion must have preceded bullet arrival because blood doesn't act as if Kirk has been shot.
+\end_layout
+
+\begin_layout Subsubsection
+Shooter bullet arrives
+\end_layout
+
+\begin_layout Standard
+Bullet lands in Kirk and penetrates neck,
+ bullet travels into wound in the front of Kirk's neck,
+ and bullet lodges in Kirk.
+ In the image below,
+ the t-shirt cross penetration is visible below bullet entry with no blood overtop.
+ Both t-shirt penetration and explosion occur before bullet.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename KirkBulletRicohetCross.png
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Explosives-induced coagulated blood remains in his body BEFORE he leans over.
+ This is evident in the next video scenes when blood escapes the bullet ricochet entry wound in a puddle and not a spatter nor a spray as Kirk leans over.
+ The low energy blood movement is another refutation of a long range Mauser 98 bullet impact killed Kirk.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename KirkExplosionBloodAfterLean.png
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Kirk,
+ already succumbed to injuries,
+ slumps rightward ( when viewed by the front) in the chair,
+ lifeless.
+\end_layout
+
+\begin_layout Standard
+Blood in Kirk's brain,
+ held in place by gravity and a vacuum formed by vessels and arteries to Kirk's brain in a vertical position,
+ pours out the bullet penetration exit wound as Kirk slumps over.
+ There is no spray nor splatter because it's already coagulated.
+\end_layout
+
+\begin_layout Subsubsection
+Post Explosion 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename Kirk-TentOverhead.jpg
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Post detonation,
+ the chain and microphone transmitter speaker in Charlie Kirk's right ear have ejected from their pre-detonation positions.
+ There was so much energy the cross on the chain punctured the t-shirt before flying off.
+ Kirk drops the microphone as he leans leftwards.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename KirkMagnetExplosiveMicrophone.png
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This rearward camera video
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "https://www.youtube.com/watch?v=FAoay-2MSSM"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ shows that,
+ post explosion,
+ the magnetic microphone transmitter is still attached to the t-shirt:
+ this means there is a remaining board on the opposite side with whatever didn't disintegrate in the explosion.
+ The fact that the magnetic clasp is still attached to Kirk's shirt reinforces the theory that the explosive was a unidirectional explosion as if the explosion was omnidirectional the energy would have pushed outward from the microphone transmitter away from Kirk's body.
+ 
+\end_layout
+
+\begin_layout Standard
+Conspirator #4 removing evidence of the assassination in the middle of the crime scene
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "https://www.youtube.com/watch?v=FAoay-2MSSM"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename KirkAssassinationCamera.png
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Issues-this-Theory"
+
+\end_inset
+
+Issues this Theory Explains
+\end_layout
+
+\begin_layout Standard
+This theory demonstrates as it explains the following:
+\end_layout
+
+\begin_layout Enumerate
+Multiple views with identical timelines and identical actions in view from unrelated video imagery posted immediately afterwards shows the videos were organically recorded and not AI-generated.
+\end_layout
+
+\begin_layout Enumerate
+Blood coagulation was explosive-induced coagulation
+\begin_inset Foot
+status open
+
+\begin_layout Enumerate
+\begin_inset CommandInset href
+LatexCommand href
+target "https://x.com/GenghisMFKhan/status/2110040645179977815"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ which explains in part why the bullet didn't penetrate deeper into Kirk or through his bones and exit the backside of his neck.
+ Kirk's body stiffness and coagulation changed how the bullet interacted afterwards.
+\end_layout
+
+\begin_layout Enumerate
+Explosion shockwave fractured Kirk's neck vertebrae cartilage,
+ pushed Kirk's neck skin away from point of detonation,
+ raised Kirk's t-shirt back about 6 inches,
+ raised Kirk's neck hair upwards.
+ None of that can be powered by a bullet lodged in the front of Kirk's neck.
+ 
+\end_layout
+
+\begin_layout Enumerate
+No blood spurts onto tablecloths or on ball caps were seen throughout all videos makes a bullet unlikely to have killed Kirk.
+ Explosion explains all other injuries and effects seen.
+\end_layout
+
+\begin_layout Enumerate
+Kirk's immediate lifelessness is explained by an explosion.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Sim card removal from rear side camera to hide evidence points at conspiracy not lone gunman.
+\end_layout
+
+\begin_layout Enumerate
+Crime scene paved over to remove explosive residue evidence points at conspiracy not lone gunman.
+\end_layout
+
+\begin_layout Enumerate
+Cross flying up in the air from explosive off-axis gas expansion cannot be explained by bullet that never struck cross.
+\end_layout
+
+\begin_layout Enumerate
+Kirk's right ear microphone flying out of ear from explosive off-axis gas expansion.
+\end_layout
+
+\begin_layout Enumerate
+Kirk's neck vertebrae cartilage crushed by explosive shockwave before bullet cavitation that never intersected those same locations.
+\end_layout
+
+\begin_layout Enumerate
+Kirk's neck skin expansion by explosive off-axis gas expansion cannot be explained by a bullet.
+\end_layout
+
+\begin_layout Enumerate
+Kirk's front t-shirt expansion by explosive off-axis gas expansion impossible with a bullet cavitation.
+\end_layout
+
+\begin_layout Enumerate
+Kirk's BACK of t-shirt of explosive off-axis gas expansion that is IMPOSSIBLE with a bullet cavitation when neither the bullet nor fragments of Kirk exit the backside of the t-shirt.
+\end_layout
+
+\begin_layout Enumerate
+Kirk's bullet entry wound on the FRONT was from bullet entered from neck wound and lodged after ricocheting.
+\end_layout
+
+\begin_layout Enumerate
+Kirk's bullet entry wound with no exiting neck wound is explained alone by coagulated blood.
+\end_layout
+
+\begin_layout Enumerate
+Security members wore ESD (electrostatic dissipative) shoe soles with metal inserts to ground themselves before the assassination so that the RF energy from cellphones on UVU campus crowd wouldn't accidentally trigger wireless trigger or detonate wireless receiver attached to the shaped charge.
+ Electrostatic charge isn't a threat from bullets.
+ Preparation for an explosion points at conspiracy not lone gunman.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Plastic bits found in the SUV and under Charlie Kirk's body were from the disintegrated explosion device at the assassination point.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Given the bullet never left Kirk's body once embedded,
+ it is impossible that a bullet caused plastic bits deformation in the microphone transmitter on Kirk's chest.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Electronics from microphone transmitter jack flies from point of detonation forwards and outwards from Charlie Kirk's t-shirt onto the patio while the magnet holding microphone transmitter remained affixed to t-shirt explains the mystery objects at the scene.
+ The expanding shirt had insufficient force to eject the magnet at right angles but the microphone transmitter jack separated from board and bounced off Kirk.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Explosion residue would have appeared on everyone that touched Charlie Kirk,
+ on the chair,
+ the tables and on the patio surfaces.
+ Destruction of that evidence points at conspiracy over lone gunman.
+\end_layout
+
+\begin_layout Enumerate
+Sound / audio problems that Conspirator #4 is trying to correct at the sound board as the discussion started were impacted by multiple RF transmitters and RF receivers on Charlie Kirk.
+ A second receiver installed in the microphone transmitter explains the audio problems because the two circuits were creating feedback.
+\end_layout
+
+\begin_layout Enumerate
+Conspirator #4 places microphone transmitter on Charlie Kirk's neck just moments before assassination and assassination happens within 20 minutes for the same reasons:
+ wireless RF transmitters and receivers are in radio interference from nearby audio equipment,
+ and more importantly RF interference from all the cellphones actively transmitting and receiving,
+ and as Kirk sweats in that new t-shirt water makes contact with the explosive microphone transmitter altering RF fields receiver that needs to respond to wireless signal.
+ Any one of those causes might result in an accidental detonation.
+ That shows intent,
+ anyone that understands a transmitter/receiver pair might accidentally trigger will use means to prevent that (ESD shoes,
+ fast activation...).
+ Fear of an uncontrolled detonation explains why the assassination was timed for the beginning of the event.
+ 
+\end_layout
+
+\begin_layout Section
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Conclusion"
+
+\end_inset
+
+Conclusion
+\end_layout
+
+\begin_layout Standard
+This document lays out a theoretical explanation from my experience and knowledge with zero access to unseen official documents.
+ I can explain everything but I can prove none of it.
+ Without evidence like explosive residue the range of explanations can't be down-selected to a few possible likely candidate explosive devices.
+ Even then,
+ many demolition trials would be needed to get an accurate probable source location and so on.
+ 
+\end_layout
+
+\begin_layout Standard
+This theory was not complete at the outset,
+ at no time was the estimate situated with a desired end point;
+ it is the result of many iterations and many changes based on new data from new video sources.
+ As I was developing this theory,
+ I looked for evidence that would refute my operating theory with the purpose of proving it wrong,
+ as any scientist is trained to do.
+ Any post I reviewed declaring that this video or another proved it was a bullet that killed Charlie Kirk,
+ each new data source revealed to me how few people understood the fundamental differences in explosives physics versus ballistic physics.
+ In fact,
+ my operating theory did NOT declare Losee building shooter as the shooter until the last week,
+ it still said camera gun shooter
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Perhaps like 
+\begin_inset CommandInset href
+LatexCommand href
+target "https://www.youtube.com/watch?v=pTtctwZfHOA&t=10s"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+,
+ because I couldn't believe that anyone would be foolish enough to use a bullet 130m away from target to coordinate with a co-located explosive.
+ That is how far I rejected the evidence that seemed unclear in order not to bias the outcome towards or against any one source.
+ In the end,
+ given the bullet had no exit would from the back of Charlie Kirk there was no way a camera gun located behind him could have struck his front while he sat facing the front.
+ The fact the bullet origin remains in doubt has more to do with the lack of conclusive evidence in the video online.
+ The explosion,
+ on the other hand,
+ is without equivocation nor exaggeration complete and clear.
+ Explosion effects are clear,
+ three sounds appear in videos,
+ and Kirk's lifelessness within microseconds bear all the hallmarks of instantaneous death.
+ 
+\end_layout
+
+\begin_layout Standard
+Explosives and bullets cannot be synchronized,
+ that is a fundamental truth at the level of Newtonian physics,
+ and any attempt to combine the effects of a localized explosion of less than 75 microseconds with a bullet travelling 130m before impact about 0.152s later will deliver a scene as evident as the Charlie Kirk assassination.
+ It is a condemnation of the education system and the reality that military personnel are predominantly amateurs at science and shouldn't be trusted to plan physics-based operations.
+ The fact that the assassins were unaware of the vital phenomena,
+ the scientific difference between bullet and explosion impact dynamics,
+ which they witnessed close up and clearly weren't prepared for,
+ explains why there was a panicked need to destroy evidence and pave over the detonation point.
+ You can see the panic in the security forces rushing to Kirk's side with zero apparent fear of another volley of gunfire from a shooter which is in fact bizarre against a lifetime of tactical training and experience they must have.
+ 
+\end_layout
+
+\begin_layout Standard
+The fact that an explosion and a bullet were used leaves no other way out but a conspiracy not a lone shooter.
+ Even the behavior of security guards looks in the videos like they understood the attack was over.
+ How many security guards watch someone get shot and then ignore the fact an active shooter isn't a danger to anyone else?
+ How many would not point at the shooter location and signal to police?
+ How many would turn their back to a shooter?
+\end_layout
+
+\begin_layout Standard
+The video from many sources all confirm through mutual evidence that these weren't AI-generated videos because the details are identical even when the viewpoint frustums were not aligned.
+ They all show the same sequence of events.
+ No miracle is needed when science can explain it from front to back,
+ start to finish.
+ This is one advantage of social media recording and streaming video immediately it is practically impossible to stop events getting out.
+ This,
+ of course,
+ will not help in the megacities warfare that will break out in Asia,
+ where many nearby cellphones at one scene will interfere with RF activity at others.
+ If there is confusion on one shooter at one scene with thousands watching,
+ imagine what happens when it is armies fighting block to block in a city of 10,000,000 people?
+\end_layout
+
+\begin_layout Standard
+Explosions do not naturally appear on humans without an explosive source,
+ t-shirts don't magically expand for no reason,
+ bullets can't make t-shirts expand by cavitation,
+ forces don't occur unless there is an energy source,
+ and humans don't die instantaneously when struck by bullets in an overwhelming majority of cases when the bullet doesn't strike a fatal location.
+ Bullets can't damage locations they don't move through.
+ Humans gracefully fail as blood flow drops off when hit with bullets.
+ Humans struggle and grasp the entry wounds.
+ Based on what I see in the videos,
+ and every new angle only has acted to reinforce what is clear,
+ my personal expertise both with theoretical and practical explosives and ballistics,
+ all evidence can be explained without a body.
+ 
+\end_layout
+
+\begin_layout Standard
+There are hundreds of thousands of experts in the USA that would arrive at a similar conclusion in the public if there was no personal jeopardy from doing so.
+ I hold no unique knowledge.
+ But those experts,
+ ones that need a grant,
+ job,
+ or contract to live,
+ will refuse to admit this given threats are part of public discourse in today's weaponized society.
+\end_layout
+
+\begin_layout Standard
+When you grasp what your eyes see in the videos (Section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Video-Data"
+plural "false"
+caps "false"
+noprefix "false"
+nolink "false"
+
+\end_inset
+
+) you may find that a bullet cannot explain everything.
+ Even if not you may realize that when someone claims a miracle or a magic bullet they are either ignorant,
+ incompetent,
+ deceptive,
+ or irrational when compared to rational explanations that can provide a full accounting.
+\end_layout
+
+\begin_layout Standard
+There can be no accurate answer until all evidence is revealed.
+ 
+\end_layout
+
+\begin_layout Standard
+The greatest negligence here is the rush to assumption of the cause,
+ it's a grave injustice to the memory of Charlie Kirk.
+\end_layout
+
+\begin_layout Standard
+I did this for Charlie Kirk.
+ 
+\end_layout
+
+\begin_layout Section
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Video-Data"
+
+\end_inset
+
+Video Data
+\end_layout
+
+\begin_layout Standard
+These are the only video sources needed to deliver all the data referenced in this paper:
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset CommandInset href
+LatexCommand href
+target "https://www.youtube.com/watch?v=EoB7hMJl50M"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset CommandInset href
+LatexCommand href
+target "https://www.youtube.com/watch?v=H7FR-A0ILYY"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset CommandInset href
+LatexCommand href
+target "https://x.com/peppenheise/status/2075099985717158072/video/1"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset CommandInset href
+LatexCommand href
+target "https://x.com/Criter10n/status/1965915321799434530"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset CommandInset href
+LatexCommand href
+target "https://www.youtube.com/shorts/h8GKtKznZoU"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset CommandInset href
+LatexCommand href
+target "https://vimeo.com/1125374003"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset CommandInset href
+LatexCommand href
+target "https://www.foxnews.com/video/6379061896112"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset CommandInset href
+LatexCommand href
+target "https://youtu.be/c5BcKF91iec?t=1003"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset CommandInset href
+LatexCommand href
+target "https://x.com/AmericaOnlyBro/status/2101354181810585631/"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset CommandInset href
+LatexCommand href
+target "https://x.com/wtshesaid72/status/2098910278142644347"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset CommandInset href
+LatexCommand href
+target "https://x.com/sterilizors/status/210171823712049353"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset CommandInset href
+LatexCommand href
+target "https://www.youtube.com/watch?v=XLS0Z8iGEu0"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset CommandInset href
+LatexCommand href
+target "https://www.youtube.com/watch?v=FAoay-2MSSM"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset CommandInset href
+LatexCommand href
+target "https://www.youtube.com/watch?v=5-HUyv9LyMg"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset CommandInset href
+LatexCommand href
+target "https://x.com/GenghisMFKhan/status/2110040645179977815"
+
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
